@@ -82,11 +82,5 @@ namespace Answers
         }
 
         #endregion
-
-        // ########################################################################################
-        #region Private Implementation
-        // Contains the private implementation of the class
-
-        #endregion
     }
 }
